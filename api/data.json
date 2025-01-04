@@ -1,0 +1,36 @@
+{
+  "students": [
+    {
+      "id": "40ea",
+      "name": "Khaleda",
+      "skill": "mern",
+      "age": "60",
+      "location": "shidhirganj",
+      "photo": "https://res.cloudinary.com/dikawe21k/image/upload/v1735803841/g38losmwv2hgu2hjoubn.jpg"
+    },
+    {
+      "id": "4171",
+      "name": "Imran Chowdhury",
+      "skill": "css",
+      "age": "10",
+      "location": "dhanmondi",
+      "photo": "https://res.cloudinary.com/dikawe21k/image/upload/v1735804419/bpcuupfcsazsineff6tp.jpg"
+    },
+    {
+      "id": "b292",
+      "name": "muka",
+      "skill": "teacher",
+      "age": "40",
+      "location": "dhaka",
+      "photo": "https://res.cloudinary.com/dikawe21k/image/upload/v1735978062/xjbavqxqece2sonr1buz.jpg"
+    },
+    {
+      "id": "515f",
+      "name": "khalid",
+      "skill": "web developer",
+      "age": "50",
+      "location": "losangels",
+      "photo": "https://res.cloudinary.com/dikawe21k/image/upload/v1735897496/pusjr8bxqsj9tp29yntc.jpg"
+    }
+  ]
+}
